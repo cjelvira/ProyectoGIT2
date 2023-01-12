@@ -1,6 +1,6 @@
 #myDIV {
   width: 640px;
-  height: 480px;
+  height: 520px; /*480px;*/
   background: red;
   vertical-align:center;
   align:center;
@@ -15,7 +15,7 @@
 .boton {
    border: 1px solid #2e518b; /*anchura, estilo y color borde*/
    padding: 10px; /*espacio alrededor texto*/
-   background-color: #2e518b; /*color botón*/
+   background-color: red;/*#2e518b; color botón*/
    color: #ffffff; /*color texto*/
    text-decoration: none; /*decoración texto*/
    text-transform: uppercase; /*capitalización texto*/
